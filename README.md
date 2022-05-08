@@ -12,3 +12,8 @@ Input: Day of the week and steps data
 Output: The number of steps in the next week 
 
 Evaluation indicators: RMSE, SMAPE, R Square
+
+
+LSHP：Hybrid prediction of long-term and short-term distributions of steps
+
+
